@@ -39,6 +39,6 @@ def start():
             if len(dms) is 0:
                 time.sleep(60)
 
-
+#deploy heroku
 if __name__ == "__main__":
     start()
