@@ -1,1 +1,1 @@
-pip freeze > requirements.txt
+worker: python app.py
